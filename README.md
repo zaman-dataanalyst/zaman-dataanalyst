@@ -24,7 +24,7 @@ and building real-world projects to strengthen my analytical and visualization s
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/hafiz-zaman-yaseen-85057b36b)  
+- [LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/)  
 - Lahore, Pakistan 🌍  
 
 ---
