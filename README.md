@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaman Yaseen  
 
-<!--
-**zaman-dataanalyst/zaman-dataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** passionate about uncovering insights through data.  
+Skilled in **Excel, SQL, Power BI, and Python**, I enjoy transforming numbers into meaningful, actionable insights.  
 
-Here are some ideas to get you started:
+📊 Currently pursuing **BS Data Science** from *University of Central Punjab (UCP), Lahore* —  
+and building real-world projects to strengthen my analytical and visualization skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Focus Areas
+- Excel Dashboards (Pivot Tables, Slicers, VBA Automation)  
+- Power BI Interactive Reports  
+- SQL Queries & Data Cleaning  
+- Python for Analytics (Pandas, Matplotlib)  
+
+---
+
+### 🚀 Featured Projects
+- [Sales Performance Dashboard (Excel + VBA)](https://github.com/zaman-dataanalyst/Sales_Performance_Dashboard_Project)  
+  *An interactive Excel dashboard with dynamic KPIs, slicers, and VBA-based automation.*  
+- More portfolio projects coming soon...  
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/hafiz-zaman-yaseen-85057b36b)  
+- Lahore, Pakistan 🌍  
+
+---
+
+💡 *“Data is more than numbers — it’s a story waiting to be told.”*
