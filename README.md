@@ -3,7 +3,7 @@
 🎯 **Aspiring Data Analyst** passionate about uncovering insights through data.  
 Skilled in **Excel, SQL, Power BI, and Python**, I enjoy transforming numbers into meaningful, actionable insights.  
 
-📊 Currently pursuing **BS Data Science** from *University of Central Punjab (UCP), Lahore* —  
+📊 Currently pursuing **BS Software Engineering** from *University of Central Punjab (UCP), Lahore* —  
 and building real-world projects to strengthen my analytical and visualization skills.  
 
 ---
