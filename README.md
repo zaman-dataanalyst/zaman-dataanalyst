@@ -16,10 +16,12 @@ and building real-world projects to strengthen my analytical and visualization s
 
 ---
 
-### 🚀 Featured Projects
-- [Sales Performance Dashboard (Excel + VBA)](https://github.com/zaman-dataanalyst/Sales_Performance_Dashboard_Project)  
-  *An interactive Excel dashboard with dynamic KPIs, slicers, and VBA-based automation.*  
-- More portfolio projects coming soon...  
+### 🏆 Featured Project: Enterprise Workforce & Revenue Analytics
+**[Status: Backend Finalized | Power BI UI/UX In Progress]** An end-to-end Medallion Architecture built to solve "Margin Erosion" and "Bench Cost" tracking for IT Staff Augmentation firms. This automated data engine processes **3.72M+ records** with strict FinOps and governance standards.
+
+* **Automated ELT:** Python-driven ingestion with real-time multi-currency FX API integration.
+* **Transformation & QA:** dbt-driven Kimball Star Schema, validated by 62 `dbt tests` and a custom Python cross-engine audit.
+* **Orchestration:** Decoupled CI/CD pipelines via GitHub Actions for zero-maintenance daily loads.  
 
 ---
 
