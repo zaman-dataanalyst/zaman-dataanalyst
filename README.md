@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Hafiz Zaman Yaseen  
 
-🎯 **Data Analyst & Analytics Engineer** specializing in zero-maintenance enterprise architectures.  
-I build deterministic data engines and CI/CD automated pipelines using the **Modern Data Stack (BigQuery, dbt, Python, Power BI)** to solve multi-million-dollar business problems like Margin Erosion and Resource Bench Tracking.
+🎯 **Data Analyst & Analytics Engineer** who builds enterprise-grade data solutions. I bridge the gap between raw data and executive decision-making. Using the **Modern Data Stack (dbt, BigQuery, Python, Power BI)**, I transform massive datasets into clean, deterministic Medallion architectures.
 
-📊 Currently completing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while actively architecting Medallion-structured FinOps analytics for the IT Staff Augmentation sector.
+📊 Currently pursuing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while engineering highly scalable, real-world FinOps data projects to solve IT Staff Augmentation problems.
 
 ---
 
 ### 🧠 Core Focus Areas & Expertise
-- **Cloud Data Warehousing:** Google BigQuery, Medallion Architecture 
-- **Modern Data Transformation:** dbt (Data Build Tool), CI/CD Automation, Data Governance
-- **Enterprise Business Intelligence:** Power BI (DAX, RLS, Predictive Modeling)
-- **Advanced Data Engineering:** Python (Pandas, API Integrations, ETL/ELT)
-- **Foundational Analytics:** Complex SQL Queries, Excel (Pivot Tables, VBA)
+- **Analytics Engineering:** dbt (Data Build Tool), Medallion Architecture, Data Governance
+- **Enterprise BI & Dashboards:** Power BI (DAX, Row-Level Security, Predictive Modeling)
+- **Data Warehousing & Analysis:** Google BigQuery, Complex SQL Transformations
+- **Data Extraction & Automation:** Python (Pandas, API Integrations, CI/CD)
+- **Foundational Analytics:** Advanced Excel (Pivot Tables, VBA Automation)
 
 ---
 
@@ -32,4 +31,4 @@ I build deterministic data engines and CI/CD automated pipelines using the **Mod
 
 ---
 
-💡 *“Data is more than numbers — it’s a story waiting to be told.”*
+💡 *"Data without robust architecture is just noise. I build the engines that turn it into strategic ROI."*
