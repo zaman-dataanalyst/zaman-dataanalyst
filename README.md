@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zaman Yaseen  
+# 👋 Hi, I'm Hafiz Zaman Yaseen  
 
 🎯 **Aspiring Data Analyst** passionate about uncovering insights through data.  
 Skilled in **Excel, SQL, Power BI, and Python**, I enjoy transforming numbers into meaningful, actionable insights.  
