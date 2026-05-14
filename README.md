@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Hafiz Zaman Yaseen  
 
-🎯 **Aspiring Data Analyst** passionate about uncovering insights through data.  
-Skilled in **Excel, SQL, Power BI, and Python**, I enjoy transforming numbers into meaningful, actionable insights.  
+🎯 **Data Analyst & Analytics Engineer** specializing in zero-maintenance enterprise architectures.  
+I build deterministic data engines and CI/CD automated pipelines using the **Modern Data Stack (BigQuery, dbt, Python, Power BI)** to solve multi-million-dollar business problems like Margin Erosion and Resource Bench Tracking.
 
-📊 Currently pursuing **BS Software Engineering** from *University of Central Punjab (UCP), Lahore* —  
-and building real-world projects to strengthen my analytical and visualization skills.  
+📊 Currently completing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while actively architecting Medallion-structured FinOps analytics for the IT Staff Augmentation sector.
 
 ---
 
-### 🧠 Focus Areas
-- Excel Dashboards (Pivot Tables, Slicers, VBA Automation)  
-- Power BI Interactive Reports  
-- SQL Queries & Data Cleaning  
-- Python for Analytics (Pandas, Matplotlib)  
+### 🧠 Core Focus Areas & Expertise
+- **Cloud Data Warehousing:** Google BigQuery, Medallion Architecture 
+- **Modern Data Transformation:** dbt (Data Build Tool), CI/CD Automation, Data Governance
+- **Enterprise Business Intelligence:** Power BI (DAX, RLS, Predictive Modeling)
+- **Advanced Data Engineering:** Python (Pandas, API Integrations, ETL/ELT)
+- **Foundational Analytics:** Complex SQL Queries, Excel (Pivot Tables, VBA)
 
 ---
 
@@ -26,8 +26,9 @@ and building real-world projects to strengthen my analytical and visualization s
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/)  
-- Lahore, Pakistan 🌍  
+- **LinkedIn:** [Hafiz Zaman Yaseen](https://www.linkedin.com/in/zaman-yaseen-85057b36b/)  
+- **Email:** [zamanyaseen.71@gmail.com](mailto:zamanyaseen.71@gmail.com) *(Click to email)*
+- **Location:** Lahore, Pakistan 🌍
 
 ---
 
