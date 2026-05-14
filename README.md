@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst & Analytics Engineer** who builds enterprise-grade data solutions. I bridge the gap between raw data and executive decision-making. Using the **Modern Data Stack (dbt, BigQuery, Python, Power BI)**, I transform massive datasets into clean, deterministic Medallion architectures.
 
-📊 Currently pursuing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while engineering highly scalable, real-world FinOps data projects to solve IT Staff Augmentation problems.
+📊 Currently pursuing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while engineering highly scalable, real-world Workforce & Revenue analytics to solve IT Staff Augmentation problems.
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ### 🏆 Featured Project: Enterprise Workforce & Revenue Analytics
-**[Status: Backend Finalized | Power BI UI/UX In Progress]** An end-to-end Medallion Architecture built to solve "Margin Erosion" and "Bench Cost" tracking for IT Staff Augmentation firms. This automated data engine processes **3.72M+ records** with strict FinOps and governance standards.
+**[Status: Backend Finalized | Power BI UI/UX In Progress]** An end-to-end Medallion Architecture built to solve "Margin Erosion" and "Bench Cost" tracking for IT Staff Augmentation firms. This automated data engine processes **3.75M+ records** with strict business logic and governance standards.
 
 * **Automated ELT:** Python-driven ingestion with real-time multi-currency FX API integration.
 * **Transformation & QA:** dbt-driven Kimball Star Schema, validated by 62 `dbt tests` and a custom Python cross-engine audit.
