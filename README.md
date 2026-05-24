@@ -1,34 +1,39 @@
-# 👋 Hi, I'm Hafiz Zaman Yaseen  
+# 👋 Hi, I'm Hafiz Zaman Yaseen
 
-🎯 **Data Analyst & Analytics Engineer** who builds enterprise-grade data solutions. I bridge the gap between raw data and executive decision-making. Using the **Modern Data Stack (dbt, BigQuery, Python, Power BI)**, I transform massive datasets into clean, deterministic Medallion architectures.
+🎯 **Data Analyst** who turns complex, messy data into 
+clear business decisions — using SQL, Power BI, Python, and dbt.
 
-📊 Currently pursuing my **BS in Software Engineering** at the *University of Central Punjab (UCP)* — while engineering highly scalable, real-world Workforce & Revenue analytics to solve IT Staff Augmentation problems.
-
----
-
-### 🧠 Core Focus Areas & Expertise
-- **Analytics Engineering:** dbt (Data Build Tool), Medallion Architecture, Data Governance
-- **Enterprise BI & Dashboards:** Power BI (DAX, Row-Level Security, Predictive Modeling)
-- **Data Warehousing & Analysis:** Google BigQuery, Complex SQL Transformations
-- **Data Extraction & Automation:** Python (Pandas, API Integrations, CI/CD)
-- **Foundational Analytics:** Advanced Excel (Pivot Tables, VBA Automation)
+📊 BS Software Engineering student at the **University of 
+Central Punjab (UCP)**, Lahore — building real-world analytics 
+solutions while still in university.
 
 ---
 
-### 🏆 Featured Project: Enterprise Workforce & Revenue Analytics
-**[Status: Backend Finalized | Power BI UI/UX In Progress]** An end-to-end Medallion Architecture built to solve "Margin Erosion" and "Bench Cost" tracking for IT Staff Augmentation firms. This automated data engine processes **3.75M+ records** with strict business logic and governance standards.
+### 🔧 What I Work With
+- **BI & Reporting:** Power BI (DAX, Data Modeling), Excel (VBA, Pivot Tables)
+- **Data & SQL:** Advanced SQL (CTEs, Window Functions), Google BigQuery
+- **Engineering:** Python (Pandas, API Integration), dbt, GitHub Actions
+- **Concepts:** Medallion Architecture, Star Schema, ETL/ELT, MIS Reporting
 
-* **Automated ELT:** Python-driven ingestion with real-time multi-currency FX API integration.
-* **Transformation & QA:** dbt-driven Kimball Star Schema, validated by 62 `dbt tests` and a custom Python cross-engine audit.
-* **Orchestration:** Decoupled CI/CD pipelines via GitHub Actions for zero-maintenance daily loads.  
+---
+
+### 🏆 Featured Project — Enterprise Workforce & Revenue Analytics
+End-to-end analytics pipeline processing **3.75M+ records** across 
+9 countries to track Bench Cost, Resource Utilization, and FX Volatility.
+
+- **Pipeline:** Python ingestion with live multi-currency FX API
+- **Architecture:** Medallion (Bronze → Silver → Gold) on BigQuery + dbt
+- **Quality:** 49 dbt tests — all passing | Custom Python audit suite
+- **Dashboard:** Power BI executive dashboard — in progress
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Hafiz Zaman Yaseen](https://www.linkedin.com/in/zaman-yaseen-85057b36b/)  
-- **Email:** [zamanyaseen.71@gmail.com](mailto:zamanyaseen.71@gmail.com) *(Click to email)*
+- **LinkedIn:** [Hafiz Zaman Yaseen](https://www.linkedin.com/in/zaman-dataanalyst)
+- **Email:** zamanyaseen.71@gmail.com
 - **Location:** Lahore, Pakistan 🌍
 
 ---
 
-💡 *"Data without robust architecture is just noise. I build the engines that turn it into strategic ROI."*
+💡 *"Good analysis doesn't just show what happened — 
+it drives what happens next."*
